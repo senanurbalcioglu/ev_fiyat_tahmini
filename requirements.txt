@@ -71,3 +71,5 @@ validators==0.20.0
 watchdog==3.0.0
 xgboost==1.7.5
 zipp==3.15.0
+
+rounding~=0.4
