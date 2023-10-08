@@ -1,6 +1,6 @@
 <img src="https://logowik.com/content/uploads/images/emlakjet.jpg" width="800" height="400">
 
-uygulama linki : https://ev-fiyat-tahmini.streamlit.app/ 
+uygulama linki : https://ev-fiyat-tahmini.streamlit.app/  
 
 ### AMAÇ
 Emlakjet, satılık/kiralık veya yatırımlık olsun aranan emlağı en hızlı ve en kolay şekilde bulma
