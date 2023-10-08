@@ -146,7 +146,7 @@ if fiyat:
         result = f.predict(ru_)
 
         result = int(result)
-
+        result = round(result, -3)
         st.markdown(
             f"""
             <div style="text-align: center;background-color: rgba(255, 255, 255, 0.5); padding: 10px; border-radius: 10px;">
