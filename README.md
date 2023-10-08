@@ -1,4 +1,5 @@
 <img src="https://logowik.com/content/uploads/images/emlakjet.jpg" width="800" height="400">
+
 ### AMAÇ
 Emlakjet, satılık/kiralık veya yatırımlık olsun aranan emlağı en hızlı ve en kolay şekilde bulma
 fırsatı sunmak üzere 2006 yılında kurulan bir platformdur. Projenin amacı, Türkiyedeki satılık
